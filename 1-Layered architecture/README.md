@@ -63,12 +63,3 @@ The project has the following dependencies:
 - .NET 
 
 - xUnit.net 
-
-
-## Test Results 
-
-BusinessLogicLayer.Tests 
-![Alt text](https://imgur.com/Wy7iR79)
-
-DataAccessLayer.Tests
-![Alt text](https://imgur.com/24OV45J)
