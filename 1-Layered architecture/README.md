@@ -1,4 +1,4 @@
-# Project Name
+# Layered architecture
 
 This project is an example of a layered architecture pattern implemented in .NET.
 
