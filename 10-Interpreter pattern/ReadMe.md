@@ -21,21 +21,23 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
-
+ ```bash
+ git clone <repository-url>
+```
 2.Navigate to the project directory:
-  ```bash
-  cd 10-Interpreter pattern
+``` bash
+cd 10-Interpreter pattern
+```
 
 3.Restore the NuGet packages
   ```bash
   dotnet restore
-
+```
 4.Build the solution
   ```bash
   dotnet build
-
+```
 5.Run the unit tests:
   ```bash
   dotnet test 
+ 
