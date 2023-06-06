@@ -1,5 +1,5 @@
 ﻿using System;
-
+namespace InterpreterPatternExample{
 // Abstract expression
 public abstract class Expression
 {
@@ -76,4 +76,6 @@ public class Client
         int result = expression.Interpret();
         Console.WriteLine("Result: " + result); // Output: Result: 4
     }
+}
+
 }
