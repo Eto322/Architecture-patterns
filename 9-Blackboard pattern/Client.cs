@@ -1,3 +1,5 @@
+using System;
+
 class Client
 {
     private Blackboard _blackboard;

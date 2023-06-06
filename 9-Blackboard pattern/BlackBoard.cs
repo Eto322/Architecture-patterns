@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 class Blackboard
 {
     public string Data { get; set; }
