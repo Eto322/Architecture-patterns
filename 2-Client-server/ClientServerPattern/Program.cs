@@ -54,6 +54,8 @@ namespace ClientServerPattern
             listener.Stop();
             Console.WriteLine("Server stopped.");
         }
+
+        
     }
 
     public class ClientHandler
@@ -103,5 +105,7 @@ namespace ClientServerPattern
             stream.Write(data, 0, data.Length);
             Console.WriteLine($"Sent to server: {message}");
         }
+
+   
     }
 }
