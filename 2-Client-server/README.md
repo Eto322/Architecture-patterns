@@ -16,9 +16,6 @@ The client connects to the server using its IP address and port number. It sends
 
 These instructions will help you set up and run the project on your local machine.
 
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 5.0 or later)
 
 ### Installation
 
