@@ -15,3 +15,5 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+__pycache__/
+
