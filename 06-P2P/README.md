@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for the P2P project:
-
 # Peer-to-Peer (P2P) Pattern Example
 
 This is an example project demonstrating the implementation of a simple Peer-to-Peer (P2P) pattern using Python.
